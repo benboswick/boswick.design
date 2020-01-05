@@ -24,7 +24,7 @@ header .logoPlaceholder span {
 	height: 22px;
 	font-family: 'Montserrat', sans-serif;
 	color: rgba(255,255,255,1.00);
-	font-size: 30px;
+	font-size: 14px;
 	font-weight: 700;
 	line-height: 53px;
 }
@@ -80,8 +80,8 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 }
 .section1 .sectionTitle, .section2 .sectionTitle {
 	font-family: 'Montserrat', sans-serif;
-	color: rgba(146,146,146,1.00);
-	font-size: 18px;
+	color: rgba(150,150,150,1.00);
+	font-size: 20px;
 	font-weight: 700;
 	text-transform: uppercase;
 }
@@ -91,18 +91,18 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 	clear: both;
 }
 .section1 .sectionTitleRule2, .section2 .sectionTitleRule2 {
-	background-color: rgba(208,207,207,1.00);
+	background-color: rgba(150,150,150,1.00);
 	height: 1px;
 	padding: 0px;
 }
 .mainContent .section1 .section1Content {
 	font-family: ProximaNova;
 	font-size: 14px;
-	font-weight: 100;
-	color: rgba(208,207,207,1.00);
+	font-weight: 500;
+	color: rgba(120,120,120,1.00);
 }
 .mainContent .section1 .section1Content span {
-	color: rgba(146,146,146,1.00);
+	color: rgba(150,150,150,1.00);
 	font-family: sans-serif;
 }
 .section2 .sectionContentTitle {
@@ -113,7 +113,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 }
 .section2 .sectionContentSubTitle {
 	font-family: sans-serif;
-	color: rgba(68,67,67,1.00);
+	color: rgba(100,100,100,1.00);
 	font-size: 14px;
 	font-weight: 400;
 }
@@ -128,7 +128,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 	display: block;
 }
 .mainContent .externalResourcesNav .externalResources {
-	background-color: rgba(208,207,207,1.00);
+	background-color: rgba(150,150,150,1.00);
 	display: inline-block;
 	text-align: center;
 	margin-top: 0px;
